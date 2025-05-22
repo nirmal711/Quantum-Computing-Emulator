@@ -38,7 +38,9 @@ cd ECE564_Project
 ### 2. Run Simulation
 
 Go to the run/ directory:
-
+```bash
+cd run
+```
 To run with UI (debug mode):
 ```bash
 make debug
