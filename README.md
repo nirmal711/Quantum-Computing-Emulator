@@ -37,7 +37,8 @@ cd ECE564_Project
 ```
 ### 2. Run Simulation
 
-Go to the run/ directory
+Go to the run/ directory:
+
 To run with UI (debug mode):
 ```bash
 make debug
@@ -48,6 +49,9 @@ make grade-564
 ```
 ### 3. Run Synthesis
 Go to the synthesis/ directory:
+```bash
+cd synthesis
+```
 Run synthesis with specified clock period:
 ```bash
 make all CLOCK_PER=8.6
