@@ -1,6 +1,6 @@
 # Quantum Computing Emulator – Hardware Design
 
-This project implements a **hardware-based emulator** for quantum computations using complex-valued matrix multiplications. Developed as part of **ECE 564 (Fall 2023)** under **Dr. Paul Franzon** at **NC State University** as a **volunteer intern** project.
+This project implements a **hardware-based emulator** for quantum computations using complex-valued matrix multiplications.
 
 ## 🧠 Project Overview
 
