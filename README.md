@@ -34,35 +34,21 @@ The emulator simulates quantum operations by multiplying a quantum state vector 
 ```bash
 unzip ECE564_Project.zip
 cd ECE564_Project
+```
 ### 2. Run Simulation
-Go to the run/ directory:
 
-
-Copy
-Edit
-cd run
+Go to the run/ directory
 To run with UI (debug mode):
-
-bash
-Copy
-Edit
+```bash
 make debug
+```
 To run all grading tests (ECE 564 test suite):
-
-bash
-Copy
-Edit
+```bash
 make grade-564
-3. Run Synthesis
+```
+### 3. Run Synthesis
 Go to the synthesis/ directory:
-
-bash
-Copy
-Edit
-cd synthesis
 Run synthesis with specified clock period:
-
-bash
-Copy
-Edit
+```bash
 make all CLOCK_PER=8.6
+```
